@@ -3,11 +3,11 @@
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
-<a href="https://github.com/jstrieb/github-stats">
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+<a href="https://github.com/aDudko/github-stats">
+<img src="https://github.com/aDudko/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/aDudko/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/aDudko/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
+<img src="https://github.com/aDudko/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 </a>
 
 Generate visualizations of GitHub user and repository statistics with GitHub
@@ -56,9 +56,9 @@ last contributed to more than a year ago may not be included in the statistics
 due to limitations in the results returned by the API.
 
 For more information on inaccuracies, see issue
-[#2](https://github.com/jstrieb/github-stats/issues/2),
-[#3](https://github.com/jstrieb/github-stats/issues/3), and
-[#13](https://github.com/jstrieb/github-stats/issues/13).
+[#2](https://github.com/aDudko/github-stats/issues/2),
+[#3](https://github.com/aDudko/github-stats/issues/3), and
+[#13](https://github.com/aDudko/github-stats/issues/13).
 
 # Installation
 
